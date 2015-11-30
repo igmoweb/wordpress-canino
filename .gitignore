@@ -1,6 +1,6 @@
 wp-config.php
 wp-content/uploads/
 wp-content/extensions/
+wp-content/plugins/wordfence/tmp/configCache.php
 php_mail.log
 php_errorlog
-wp-content/plugins/wordfence/tmp/configCache.php
