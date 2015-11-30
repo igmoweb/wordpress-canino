@@ -1,0 +1,116 @@
+.woocommerce .product-categories li a,
+.woocommerce ul.products li.product .price, .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce .widget_top_rated_products .amount,
+.woocommerce ul.products li.product .price ins, .woocommerce .widget_top_rated_products ins,
+.woocommerce ul.products li.product .price del, .woocommerce .widget_top_rated_products del,
+.woocommerce .woocommerce-pagination ul.page-numbers li a, .woocommerce .woocommerce-pagination ul.page-numbers li span, .woocommerce .woocommerce-pagination ul.page-numbers li a:focus,
+.woocommerce .woocommerce-result-count, .woocommerce-page .woocommerce-result-count,
+.woocommerce .widget_price_filter .price_slider_amount .price_label,
+.woocommerce #reviews #comments ol.commentlist li .meta
+{
+	color: #9DA4AB;
+}
+.woocommerce .product-categories li a,
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.altm, .woocommerce .widget_product_search form input[type="submit"], .woocommerce .cart .coupon input.button,
+.woocommerce .quantity .qty, .woocommerce .quantity .plus, .woocommerce .quantity .minus,
+.woocommerce div.product .description,
+.woocommerce div.product .woocommerce-tabs ul.tabs,
+.woocommerce #review_form p.stars a,
+#review_form textarea:focus,
+.woocommerce table.shop_table th, .woocommerce table.shop_table td,
+.woocommerce table.shop_table, .woocommerce-cart .cart-collaterals .cart_totals table,
+.woocommerce-checkout #payment,
+.woocommerce-checkout #payment ul.payment_methods
+{
+	border-color: #464D53;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.altm, .woocommerce .widget_product_search form input[type="submit"], .woocommerce .cart .coupon input.button,
+.woocommerce ul.cart_list li a, .woocommerce ul.product_list_widget li a,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a, .woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li a.selected, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message,
+.woocommerce table.shop_table th, .woocommerce-cart .cart-collaterals .cart_totals table th,
+.select2-container .select2-choice
+{
+	color: #FFF;
+}
+.woocommerce .widget_price_filter .price_slider_wrapper .ui-widget-content,
+.woocommerce .woocommerce-pagination ul.page-numbers li a, .woocommerce .woocommerce-pagination ul.page-numbers li span, .woocommerce .woocommerce-pagination ul.page-numbers li a:focus,
+.woocommerce .comment-reply-title, .woocommerce .related.products h2, .woocommerce-account .woocommerce h2, .woocommerce-checkout .woocommerce h2, .woocommerce-account .title h3, .woocommerce-checkout .title h3,
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message,
+.select2-container .select2-choice
+{
+	background: #42494F;
+}
+.woocommerce .woocommerce-ordering select
+{
+	border-color: #42494F;
+}
+.woocommerce .posted_in,
+.woocommerce .quantity .qty,
+.woocommerce #review_form_wrapper .comment-form-rating label,
+.woocommerce table.shop_table, .woocommerce-cart .cart-collaterals .cart_totals table,
+.woocommerce-account .addresses address, .woocommerce-checkout .addresses address,
+.woocommerce .order_details li
+{
+	color: #D7DCE0;
+}
+.woocommerce p.stars a.star-1:after, .woocommerce p.stars a.star-2:after, .woocommerce p.stars a.star-3:after, .woocommerce p.stars a.star-4:after, .woocommerce p.stars a.star-5:after, 
+.woocommerce .star-rating:before
+{
+	color: #42494F;
+}
+#review_form .hint
+{
+	color: #858D94;
+}
+.woocommerce .product-categories li a:hover,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce .widget_product_search form input[type="submit"], .woocommerce div.product form.cart .button.single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input, .woocommerce #payment #place_order, .woocommerce .cart input.button, .woocommerce .cart .coupon input.button:hover, .woocommerce .button.wc-forward,
+.woocommerce span.onsale,
+.cart_items_number,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .woocommerce-pagination ul.page-numbers li a:hover, .woocommerce .woocommerce-pagination ul.page-numbers li a.current, .woocommerce .woocommerce-pagination ul.page-numbers li span.current,
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover,
+.woocommerce mark
+{
+	background: #8CC152;
+}
+.woocommerce .product-categories li a:hover,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce .widget_product_search form input[type="submit"], .woocommerce div.product form.cart .button.single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input, .woocommerce #payment #place_order, .woocommerce .cart input.button, .woocommerce .cart .coupon input.button:hover, .woocommerce .button.wc-forward,
+.woocommerce-cart .woocommerce .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_product_search form input[type="submit"]:hover, .woocommerce div.product form.cart .button.single_add_to_cart_button:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce #payment #place_order:hover, .woocommerce .cart input.button:hover, .woocommerce .button.wc-forward:hover,
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li a.selected, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce .comment-reply-title, .woocommerce .related.products h2, .woocommerce-account .woocommerce h2, .woocommerce-checkout .woocommerce h2, .woocommerce-account .title h3, .woocommerce-checkout .title h3,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover
+{
+	border-color: #8CC152;
+}
+.woocommerce-cart .woocommerce .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_product_search form input[type="submit"]:hover, .woocommerce div.product form.cart .button.single_add_to_cart_button:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce #payment #place_order:hover, .woocommerce .cart input.button:hover, .woocommerce .button.wc-forward:hover,
+.woocommerce .woocommerce-message:before,
+.woocommerce-message a, .woocommerce-info a, .woocommerce-error a, .woocommerce-review-link, .woocommerce-checkout #payment .payment_method_paypal .about_paypal,
+.woocommerce .posted_in a,
+.woocommerce-account .addresses .title .edit
+{
+	color: #8CC152;
+}
+.woocommerce table.shop_table th, .woocommerce-cart .cart-collaterals .cart_totals table th,
+.woocommerce table.shop_table.cart tr:nth-child(2n), .woocommerce table.cart_totals_table td:nth-child(2n), .woocommerce table.shop_table.woocommerce-checkout-review-order-table tr.cart-subtotal, .woocommerce table.shop_table.woocommerce-checkout-review-order-table tr.order-total,
+.woocommerce-checkout #payment
+{
+	background: #393f44;
+}
+.woocommerce table.cart_totals_table td:nth-child(2n), .woocommerce table.shop_table.cart tr:last-child
+{
+	background: transparent;
+}
+.select2-container .select2-choice .select2-arrow b:after
+{
+	border-color: #FFF transparent transparent;
+}
+.woocommerce-checkout #payment div.payment_box
+{
+	background: #2D3136;
+}
+.woocommerce-checkout #payment div.payment_box:after
+{
+	border-color: transparent transparent #2D3136;
+}

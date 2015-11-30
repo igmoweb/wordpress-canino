@@ -1,0 +1,75 @@
+.woocommerce .product-categories li a:hover,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce .widget_product_search form input[type="submit"], .woocommerce div.product form.cart .button.single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input, .woocommerce #payment #place_order, .woocommerce .cart input.button, .woocommerce .cart .coupon input.button:hover, .woocommerce .button.wc-forward,
+.woocommerce span.onsale,
+.cart_items_number,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range,
+.woocommerce .woocommerce-pagination ul.page-numbers li a:hover, .woocommerce .woocommerce-pagination ul.page-numbers li a.current, .woocommerce .woocommerce-pagination ul.page-numbers li span.current,
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover,
+.woocommerce mark
+{
+	background: #FFDD00;
+}
+.rtl .woocommerce .woocommerce-error,
+.rtl .woocommerce .woocommerce-info,
+.rtl .woocommerce .woocommerce-message,
+.rtl .woocommerce .comment-reply-title,
+.rtl .woocommerce .related.products h2,
+.rtl.woocommerce-account h2,
+.rtl.woocommerce-checkout h2,
+.rtl.woocommerce-account .title h3,
+.rtl.woocommerce-checkout .title h3,
+.rtl .woocommerce .woocommerce-info,
+.rtl.woocommerce-checkout h2,
+.rtl.woocommerce-checkout .title h3,
+.woocommerce .product-categories li a:hover,
+.woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce .widget_product_search form input[type="submit"], .woocommerce div.product form.cart .button.single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input, .woocommerce #payment #place_order, .woocommerce .cart input.button, .woocommerce .cart .coupon input.button:hover, .woocommerce .button.wc-forward,
+.woocommerce-cart .woocommerce .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_product_search form input[type="submit"]:hover, .woocommerce div.product form.cart .button.single_add_to_cart_button:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce #payment #place_order:hover, .woocommerce .cart input.button:hover, .woocommerce .button.wc-forward:hover,
+.woocommerce .woocommerce-error, .woocommerce .woocommerce-info, .woocommerce .woocommerce-message,
+.woocommerce div.product .woocommerce-tabs ul.tabs li a:hover, .woocommerce div.product .woocommerce-tabs ul.tabs li a.selected, .woocommerce div.product .woocommerce-tabs ul.tabs li.active a,
+.woocommerce .comment-reply-title, .woocommerce .related.products h2, .woocommerce-account h2, .woocommerce-checkout h2, .woocommerce-account .title h3, .woocommerce-checkout .title h3,
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover
+{
+	border-color: #FFDD00;
+}
+.woocommerce-cart .woocommerce .wc-proceed-to-checkout a.checkout-button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce .widget_product_search form input[type="submit"]:hover, .woocommerce div.product form.cart .button.single_add_to_cart_button:hover, .woocommerce #review_form #respond .form-submit input:hover, .woocommerce #payment #place_order:hover, .woocommerce .cart input.button:hover, .woocommerce .button.wc-forward:hover,
+.woocommerce .woocommerce-message:before,
+.woocommerce-message a, .woocommerce-info a, .woocommerce-error a, .woocommerce-review-link, .woocommerce-checkout #payment .payment_method_paypal .about_paypal,
+.woocommerce .posted_in a,
+.woocommerce-account .addresses .title .edit,
+body.woocommerce-page .star-rating, .woocommerce .star-rating,
+.woocommerce p.stars a.star-1.active:after, .woocommerce p.stars a.star-1:hover:after,
+.woocommerce p.stars a.star-2.active:after, .woocommerce p.stars a.star-2:hover:after,
+.woocommerce p.stars a.star-3.active:after, .woocommerce p.stars a.star-3:hover:after,
+.woocommerce p.stars a.star-4.active:after, .woocommerce p.stars a.star-4:hover:after,
+.woocommerce p.stars a.star-5.active:after, .woocommerce p.stars a.star-5:hover:after
+{
+	color: #FFDD00;
+}
+.woocommerce span.onsale,
+.cart_items_number,
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover,
+.woocommerce .product-categories li a:hover, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-cart .wc-proceed-to-checkout a.checkout-button, .woocommerce .widget_price_filter .price_slider_amount .button, .woocommerce .widget_product_search form input[type="submit"], .woocommerce div.product form.cart .button.single_add_to_cart_button, .woocommerce #review_form #respond .form-submit input, .woocommerce #payment #place_order, .woocommerce .cart input.button, .woocommerce .cart .coupon input.button:hover, .woocommerce .button.wc-forward, .woocommerce .widget_price_filter .ui-slider .ui-slider-handle, .woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover,
+.woocommerce .woocommerce-pagination ul.page-numbers li a:hover, .woocommerce .woocommerce-pagination ul.page-numbers li a.current, .woocommerce .woocommerce-pagination ul.page-numbers li span.current
+{
+	color: #000;
+}
+.woocommerce ul.products li.product a h3,
+.woocommerce a.button,
+.woocommerce a.button:hover,
+.woocommerce button.button,
+.woocommerce button.button:hover,
+.woocommerce input.button,
+.woocommerce input.button:hover,
+.woocommerce input[type='submit'],
+.woocommerce ul.products li.product a.button,
+.woocommerce .woocommerce-pagination ul.page-numbers li a, .woocommerce .woocommerce-pagination ul.page-numbers li span,
+.woocommerce .product-categories li a:hover,
+.woocommerce #review_form #respond .form-submit input
+{
+	text-decoration: underline;
+}
+.woocommerce .widget_price_filter .ui-slider .ui-slider-handle
+{
+	background: #000;
+}

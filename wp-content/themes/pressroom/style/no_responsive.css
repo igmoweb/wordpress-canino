@@ -1,0 +1,9 @@
+/* --- responsive mode disabled --- */
+html body
+{
+	overflow-x: auto;
+}
+.site_container
+{	
+	min-width: 1150px;
+}

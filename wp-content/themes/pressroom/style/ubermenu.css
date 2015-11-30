@@ -1,0 +1,10 @@
+.menu_container .ubermenu .ubermenu-nav>li>ul
+{
+	margin-top: -1px;
+}
+.menu_container .ubermenu .ubermenu-nav li:hover ul, .menu_container .ubermenu .ubermenu-nav li.sfHover ul,
+.menu_container .ubermenu .ubermenu-nav li:hover li ul, .menu_container .ubermenu .ubermenu-nav li.sfHover li ul,
+.menu_container .ubermenu .ubermenu-nav li li:hover li ul, .menu_container .ubermenu .ubermenu-nav li li.sfHover li ul
+{
+	top: auto;
+}
