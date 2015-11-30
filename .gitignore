@@ -3,4 +3,4 @@ wp-content/uploads/
 wp-content/extensions/
 php_mail.log
 php_errorlog
-wp-content/plugins/wordfence/tmp/
+wp-content/plugins/wordfence/tmp/configCache.php
